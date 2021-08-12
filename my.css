@@ -1,0 +1,68 @@
+
+body
+{
+background-color:Linen;
+}
+h1
+{
+color:maroon;
+text-align:center;
+font-family:arial black;
+font-size:40px;
+ text-shadow: 2px 2px;
+}	
+p
+{
+color:maroon;
+font-family:arial;
+font-size:24px;
+}
+marquee
+{
+color:Green;
+font-size:30px;
+}
+h2
+{
+background-color:brown;
+color:white;
+text-align:center;
+font-size:30px
+}
+OL
+{
+color:maroon;
+text-align:left;
+font-family:arial;
+font-size:24px;
+}
+.topnav
+{
+background-color:brown;
+}
+.topnav a {
+float:left;
+  color: white;
+  padding: 17px 90px;
+  font-size: 17px;
+  text-decoration:none; 
+}
+.topnav a:hover {
+  background-color:lightgrey;
+  color: black;
+}
+.topnav a.active {
+  background-color:green;
+  color: white;
+}
+input[type=submit] 
+{
+  background-color:maroon;
+  color: white;
+  padding:10px 10px;
+}
+input[type=text]
+{
+width:20%;
+padding:17px;
+}
